@@ -51,7 +51,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello {},My Name is IGRIS
+Hello {},My Name is DEKU
 I am The Symbol of peace in this world.
 I will help you manage your group.
 TO KNOW MY COMMANDS CLICK /help.
